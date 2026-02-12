@@ -3,11 +3,13 @@ Genre: Action/Thriller
 Director Name: Timur Bekmambetov
 Studio: Universal Pictures
 Year: 2026
+
 Title: Safe House 2
 Genre: Action/Thriller
 Director Name: Ric Roman Waugh
 Studio: Universal Pictures
 Year: 2026
+
 Title:Dune:Part Two
 Genre:Sci-Fi/Adventure/Action
 Director Name:Denis Villeneuve
