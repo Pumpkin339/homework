@@ -15,3 +15,45 @@ Genre:Sci-Fi/Adventure/Action
 Director Name:Denis Villeneuve
 Studio:Legendary Pictures
 Year:2024
+
+Title: The Wandering Earth 3
+Genre: Sci-Fi/Action/Drama
+Director Name: Frant Gwo
+Studio: China Film Group
+Year: 2025
+
+Title: Hidden Blade 2
+Genre: Drama/Thriller/History
+Director Name: Er Cheng
+Studio: Alibaba Pictures
+Year: 2024
+
+Title: Detective Chinatown 4
+Genre: Comedy/Mystery/Action
+Director Name: Chen Sicheng
+Studio: Wanda Pictures
+Year: 2025
+
+Title: RRR 2
+Genre: Action/Drama/History
+Director Name: S.S. Rajamouli
+Studio: DVV Entertainment
+Year: 2025
+
+Title: Jawan 2
+Genre: Action/Thriller/Drama
+Director Name: Atlee Kumar
+Studio: Red Chillies Entertainment
+Year: 2024
+
+Title: Godzilla x Kong: The New Empire
+Genre: Action/Adventure/Sci-Fi
+Director Name: Adam Wingard
+Studio: Warner Bros. Pictures
+Year: 2024
+
+Title: Mad Max: Furiosa
+Genre: Action/Adventure/Sci-Fi
+Director Name: George Miller
+Studio: Warner Bros. Pictures
+Year: 2024
